@@ -7,9 +7,9 @@ address : "gazipur",
 
 };
 
-// console.log(user.address);
+// console.log(user.address);      // user er address key execute korle address ashbe.
 
-// console.log(user["address"]);  // user['  ${}    ']
+// console.log(user["address"]);  // user[`  ${}    `]
 
 delete user.age;
 
